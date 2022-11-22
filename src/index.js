@@ -1,1 +1,1 @@
-cosnole.log('version 1');
+cosnole.log('version 2');
